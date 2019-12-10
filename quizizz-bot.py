@@ -158,5 +158,5 @@ def play(gamecode, name, randdelay):
 #CMD    
 if __name__ == '__main__':
   
-    play(input("PIN >>> "), input("username >>> "), input("Enable Delay? >>>")) 
+    play(input("PIN >>>423400 "), input("username >>>bruh "), input("Enable Delay? >>>")) 
 
